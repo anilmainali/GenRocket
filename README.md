@@ -9,3 +9,6 @@ Getting started With GenRocket
  ##  Follow on LinkedIn: https://www.linkedin.com/company/genrocket/
  ##  Follow on Face Book: https://www.facebook.com/GenRocket/
  ##  Subscribe on You Tube: https://www.youtube.com/user/GenRocketINC
+ 
+ ## Knowledgebase: https://genrocket.freshdesk.com/support/solutions
+ 
