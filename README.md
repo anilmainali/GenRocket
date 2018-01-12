@@ -12,3 +12,6 @@ Getting started With GenRocket
  
  ## Knowledgebase: https://genrocket.freshdesk.com/support/solutions
  
+## Basic Training
+
+ 
