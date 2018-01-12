@@ -22,6 +22,10 @@ https://vimeo.com/178254281
 ## Part 2 - Setting Up Your First Resource
 https://vimeo.com/178191488
 
+## Part 3 - Setting Up Default Receiver Parameters
+https://vimeo.com/178201464
+
+
 
 
 
