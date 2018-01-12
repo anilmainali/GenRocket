@@ -34,6 +34,19 @@ https://vimeo.com/178212160
 ## Part 6 - Adding a Receiver
 https://vimeo.com/178216142
 
+## Part 7 - Creating a Scenario
+https://vimeo.com/178221000
+
+
+## Part 8 - Running A Scenario
+https://vimeo.com/178223946
+
+## Part 9 - Defining a Parent Domain
+
+https://vimeo.com/178261719
+
+
+
 
 
 
