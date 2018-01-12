@@ -48,6 +48,13 @@ https://vimeo.com/178261719
 ## Part 10 - Attaching Multiple Receivers
 https://vimeo.com/178262070
 
+## Part 11 - Creating a Scenario with Relationships
+https://vimeo.com/178262639
+
+## Part 12 - Running a Scenario with Relationships
+https://vimeo.com/178263071
+
+
 
 
 
