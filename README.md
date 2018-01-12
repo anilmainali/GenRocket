@@ -14,7 +14,7 @@ Getting started With GenRocket
  
 ## Basic Training: https://genrocket.freshdesk.com/support/solutions/folders/19000008005
 
-# Here are some BASIC TRAINING links provided by GenRocket's documentation.
+# Here are some Basic training links provided by GenRocket's documentation.
 
 ## Part 1 - Basic Training Overview
 https://vimeo.com/178254281
