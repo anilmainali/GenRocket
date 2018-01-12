@@ -19,6 +19,11 @@ Getting started With GenRocket
 ## Part 1 - Basic Training Overview
 https://vimeo.com/178254281
 
+## Part 2 - Setting Up Your First Resource
+https://vimeo.com/178191488
+
+
+
 
 
  
